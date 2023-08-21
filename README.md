@@ -1,1 +1,1 @@
-# build-manu-Desktop_Qt_6_4_0_MinGW_64_bit-Debug
+# win10使用gcc编译的opencv环境，自行导入include可以测试使用
